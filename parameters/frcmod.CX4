@@ -1,0 +1,22 @@
+Remark line goes here
+MASS
+cl 35.450        1.910
+c3 12.010        0.878
+
+BOND
+c3-cl  155.50   1.804
+cl-cl  500.00   2.943
+
+ANGLE
+cl-c3-cl   81.400     109.330
+
+DIHE
+
+IMPROPER
+
+NONBON
+  cl          1.9452  0.2638
+  c3          1.9069  0.1078
+
+
+
